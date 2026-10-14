@@ -1,26 +1,195 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+  --color-blush: #fdf4f6;
+  --color-petal: #f9e3e9;
+  --color-rose: #eeb4c4;
+  --color-rose-deep: #d97f9b;
+  --color-plum: #6b1e3a;
+  --color-plum-deep: #45112a;
+  --color-lavender: #efe9f8;
+  --color-lilac: #b9a6dc;
+  --color-ink: #3a2530;
+  --color-muted: #7d6570;
+  --color-line: #f0dce3;
+
+  --font-display: var(--font-cormorant), "Times New Roman", serif;
+  --font-sans: var(--font-dm-sans), system-ui, sans-serif;
+  --font-script: var(--font-pinyon), cursive;
+
+  --shadow-soft: 0 10px 30px -12px rgb(107 30 58 / 0.18);
+  --shadow-lift: 0 22px 45px -18px rgb(107 30 58 / 0.32);
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
+  -webkit-tap-highlight-color: transparent;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--color-blush);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+}
+
+::selection {
+  background: var(--color-rose);
+  color: var(--color-plum-deep);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-plum);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* Small uppercase label used above headings */
+.eyebrow {
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--color-rose-deep);
+  font-weight: 600;
+}
+
+/* ---------- Article typography ---------- */
+.article {
+  font-size: 1.075rem;
+  line-height: 1.85;
+  color: #4a3540;
+}
+.article > * + * {
+  margin-top: 1.25em;
+}
+.article h2 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: clamp(1.7rem, 3.4vw, 2.15rem);
+  line-height: 1.15;
+  color: var(--color-plum);
+  margin-top: 2.2em;
+  scroll-margin-top: 6rem;
+  padding-bottom: 0.35em;
+  border-bottom: 1px solid var(--color-line);
+}
+.article h3 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.45rem;
+  color: var(--color-plum);
+  margin-top: 1.8em;
+  scroll-margin-top: 6rem;
+}
+.article a {
+  color: var(--color-plum);
+  text-decoration: underline;
+  text-decoration-color: var(--color-rose);
+  text-underline-offset: 3px;
+  text-decoration-thickness: 2px;
+}
+.article a:hover {
+  text-decoration-color: var(--color-plum);
+}
+.article strong {
+  color: var(--color-ink);
+  font-weight: 600;
+}
+.article ul,
+.article ol {
+  padding-left: 0;
+  list-style: none;
+}
+.article li {
+  position: relative;
+  padding-left: 1.9em;
+  margin-top: 0.55em;
+}
+.article ul li::before {
+  content: "";
+  position: absolute;
+  left: 0.35em;
+  top: 0.62em;
+  width: 0.6em;
+  height: 0.6em;
+  border-radius: 999px 999px 999px 0;
+  transform: rotate(-45deg);
+  background: var(--color-rose);
+}
+.article ol {
+  counter-reset: step;
+}
+.article ol li {
+  counter-increment: step;
+}
+.article ol li::before {
+  content: counter(step);
+  position: absolute;
+  left: 0;
+  top: 0.2em;
+  width: 1.45em;
+  height: 1.45em;
+  border-radius: 999px;
+  background: var(--color-petal);
+  color: var(--color-plum);
+  font-size: 0.8em;
+  font-weight: 700;
+  display: grid;
+  place-items: center;
+}
+.article blockquote {
+  margin: 2em 0;
+  padding: 1.4em 1.6em;
+  border-radius: 1.25rem;
+  background: linear-gradient(135deg, var(--color-petal), var(--color-lavender));
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  line-height: 1.5;
+  font-style: italic;
+  color: var(--color-plum);
+}
+.article blockquote p {
+  margin: 0;
+}
+.article table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: 0.95rem;
+  border: 1px solid var(--color-line);
+  border-radius: 1rem;
+  overflow: hidden;
+}
+@media (max-width: 639px) {
+  .article table {
+    display: block;
+    overflow-x: auto;
+  }
+}
+.article th {
+  background: var(--color-petal);
+  color: var(--color-plum);
+  text-align: left;
+  font-weight: 600;
+}
+.article th,
+.article td {
+  padding: 0.75em 1em;
+  border-bottom: 1px solid var(--color-line);
+  vertical-align: top;
+}
+.article tr:last-child td {
+  border-bottom: 0;
+}
+.article hr {
+  border: 0;
+  height: 1px;
+  background: var(--color-line);
+  margin: 2.5em 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
 }
