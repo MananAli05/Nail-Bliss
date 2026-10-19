@@ -17,7 +17,7 @@ export default function SearchPage() {
   }));
 
   return (
-    <div className="mx-auto max-w-7xl px-4 pt-10 sm:px-6 lg:px-8">
+    <div className="mx-auto max-w-6xl px-4 pt-10 sm:px-6">
       <p className="eyebrow text-center">Search</p>
       <h1 className="mt-2 text-center font-display text-5xl font-medium text-plum sm:text-6xl">
         Find your <span className="font-script font-normal text-rose-deep">next</span> nails

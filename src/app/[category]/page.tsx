@@ -1,6 +1,4 @@
 import type { Metadata } from "next";
-import Image from "next/image";
-import Link from "next/link";
 import { notFound } from "next/navigation";
 import { AdSlot } from "@/components/AdSlot";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
@@ -37,7 +35,7 @@ export default async function CategoryPage({ params }: PageProps<"/[category]">)
   const category = getCategory(slug);
   if (!category) notFound();
   const posts = getPostsByCategory(category.slug);
-  const elsewhere = posts.length ? [] : getAllPosts().slice(0, 4);
+  const elsewhere = posts.length ? [] : getAllPosts().slice(0, 3);
 
   return (
     <>
@@ -52,46 +50,19 @@ export default async function CategoryPage({ params }: PageProps<"/[category]">)
         }}
       />
 
-      <div className="mx-auto max-w-7xl px-4 pt-6 sm:px-6 lg:px-8">
+      <div className="mx-auto max-w-6xl px-4 pt-6 sm:px-6">
         <Breadcrumbs items={[{ name: category.name, href: `/${category.slug}` }]} />
 
-        <header className="mt-6 grid items-center gap-8 overflow-hidden rounded-3xl bg-white ring-1 ring-line md:grid-cols-[1fr_1.1fr]">
-          <div className="order-2 p-6 sm:p-10 md:order-1">
-            <p className="eyebrow">Category</p>
-            <h1 className="mt-3 font-display text-5xl font-semibold leading-none text-plum sm:text-6xl">{category.name}</h1>
-            <p className="mt-5 max-w-md leading-relaxed text-muted">{category.intro}</p>
-            {posts.length > 0 && (
-              <p className="mt-6 text-sm font-medium text-ink/70">
-                {posts.length} {posts.length === 1 ? "article" : "articles"}
-              </p>
-            )}
-          </div>
-          <div className="relative order-1 aspect-[16/10] md:order-2 md:aspect-auto md:h-full md:min-h-80">
-            <Image src={category.image} alt={category.imageAlt} fill preload sizes="(min-width: 768px) 55vw, 100vw" className="object-cover" />
-          </div>
+        <header className="mt-6 border-b border-line pb-8">
+          <h1 className="flex items-center gap-3 font-display text-4xl font-bold text-ink sm:text-5xl">
+            <span aria-hidden className="size-3 rounded-full" style={{ background: category.color }} />
+            {category.name}
+          </h1>
+          <p className="mt-3 max-w-2xl font-display text-lg leading-relaxed text-muted">{category.intro}</p>
         </header>
 
-        <nav aria-label="Categories" className="-mx-4 mt-8 overflow-x-auto px-4 pb-2 sm:mx-0 sm:px-0">
-          <ul className="flex gap-2">
-            {categories.map((c) => (
-              <li key={c.slug} className="shrink-0">
-                <Link
-                  href={`/${c.slug}`}
-                  aria-current={c.slug === category.slug ? "page" : undefined}
-                  className={`inline-flex items-center gap-2 rounded-full py-1.5 pl-1.5 pr-4 text-sm font-medium transition ${
-                    c.slug === category.slug ? "bg-plum text-white" : "bg-white text-ink/75 ring-1 ring-line hover:text-plum hover:ring-rose"
-                  }`}
-                >
-                  <Image src={c.image} alt="" width={28} height={28} className="size-7 rounded-full object-cover" />
-                  {c.name}
-                </Link>
-              </li>
-            ))}
-          </ul>
-        </nav>
-
         {posts.length > 0 ? (
-          <div className="mt-10 grid gap-x-6 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="mt-10 grid gap-x-8 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
             {posts.map((p) => (
               <PostCard key={p.slug} post={p} />
             ))}
@@ -102,9 +73,9 @@ export default async function CategoryPage({ params }: PageProps<"/[category]">)
               <p className="font-display text-2xl font-semibold text-plum">New {category.name.toLowerCase()} posts are on the way</p>
               <p className="mt-2 text-sm text-muted">In the meantime, here are some reader favorites.</p>
             </div>
-            <div className="mt-10 grid gap-x-6 gap-y-12 sm:grid-cols-2 lg:grid-cols-4">
+            <div className="mt-10 grid gap-x-8 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
               {elsewhere.map((p) => (
-                <PostCard key={p.slug} post={p} sizes="(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw" />
+                <PostCard key={p.slug} post={p} />
               ))}
             </div>
           </>

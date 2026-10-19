@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { AdSlot } from "@/components/AdSlot";
+import { CategoryBadge } from "@/components/CategoryBadge";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { JsonLd } from "@/components/JsonLd";
 import { PinButton } from "@/components/PinButton";
@@ -79,13 +80,11 @@ export default async function PostPage({ params }: PageProps<"/[category]/[slug]
         }}
       />
 
-      <div className="mx-auto max-w-7xl px-4 pt-6 sm:px-6 lg:px-8">
+      <div className="mx-auto max-w-6xl px-4 pt-6 sm:px-6">
         <Breadcrumbs items={[{ name: category.name, href: `/${category.slug}` }, { name: post.title, href: url }]} />
 
         <header className="mx-auto mt-10 max-w-3xl text-center">
-          <Link href={`/${category.slug}`} className="inline-block rounded-full bg-petal px-4 py-1.5 text-[0.7rem] font-semibold uppercase tracking-[0.22em] text-plum transition hover:bg-rose/50">
-            {category.name}
-          </Link>
+          <CategoryBadge slug={category.slug} />
           <h1 className="mt-5 font-display text-[2.6rem] font-semibold leading-[1.02] text-plum sm:text-6xl">{post.title}</h1>
           <p className="mx-auto mt-5 max-w-2xl text-lg leading-relaxed text-muted">{post.description}</p>
           <div className="mt-6 flex flex-wrap items-center justify-center gap-x-5 gap-y-2 text-sm text-muted">
@@ -243,7 +242,7 @@ export default async function PostPage({ params }: PageProps<"/[category]/[slug]
       </div>
 
       {related.length > 0 && (
-        <section className="mx-auto mt-24 max-w-7xl px-4 sm:px-6 lg:px-8">
+        <section className="mx-auto mt-24 max-w-6xl px-4 sm:px-6">
           <p className="eyebrow text-center">Keep reading</p>
           <h2 className="mt-2 text-center font-display text-4xl font-medium text-plum sm:text-5xl">
             You&apos;ll also <span className="font-script font-normal text-rose-deep">love</span>

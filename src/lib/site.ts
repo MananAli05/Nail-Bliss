@@ -4,9 +4,8 @@ export const site = {
   description:
     "Nail Bliss is your daily dose of nail inspiration: trending nail designs, nail art ideas, nail shapes and easy nail care tips for beautiful, healthy nails.",
   url: (process.env.NEXT_PUBLIC_SITE_URL ?? "https://nailbliss.com").replace(/\/$/, ""),
-  // TODO: replace with the client's real details before launch
-  email: "hello@nailbliss.com",
-  pinterest: "https://www.pinterest.com/",
+  email: "bushrasarwar2206@gmail.com",
+  pinterest: "https://www.pinterest.com/nailsblisss/",
   locale: "en_US",
 };
 
@@ -18,11 +17,14 @@ export type Category = {
   intro: string;
   image: string;
   imageAlt: string;
+  /** Accent used for the menu dot, badges and card underline */
+  color: string;
 };
 
 export const categories: Category[] = [
   {
     slug: "nail-care-tips",
+    color: "#b04a72",
     image: "/images/covers/clean-nails-cotton-pad.jpg",
     imageAlt: "Cleaning natural pink nails with a cotton pad",
     name: "Nail Care & Tips",
@@ -34,6 +36,7 @@ export const categories: Category[] = [
   },
   {
     slug: "nail-beauty",
+    color: "#6b1e3a",
     image: "/images/covers/soft-pink-manicure-bow-ring.jpg",
     imageAlt: "Soft pink manicure with white bow details and a gold bow ring",
     name: "Nail Beauty",
@@ -45,6 +48,7 @@ export const categories: Category[] = [
   },
   {
     slug: "nail-shapes",
+    color: "#7559b0",
     image: "/images/covers/nude-almond-nails-gold-ring.jpg",
     imageAlt: "Nude pink almond-shaped nails with gold rings",
     name: "Nail Shapes",
@@ -56,6 +60,7 @@ export const categories: Category[] = [
   },
   {
     slug: "nail-art-ideas",
+    color: "#a23f78",
     image: "/images/covers/butterfly-nail-art.jpg",
     imageAlt: "Pastel pink butterfly nail art on almond nails",
     name: "Nail Art Ideas",
@@ -67,6 +72,7 @@ export const categories: Category[] = [
   },
   {
     slug: "nail-designs",
+    color: "#8c2f5c",
     image: "/images/covers/cherry-nail-art.jpg",
     imageAlt: "Cherry red nail design with hand-painted cherries",
     name: "Nail Designs",
