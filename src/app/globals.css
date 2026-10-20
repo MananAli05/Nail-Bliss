@@ -37,10 +37,13 @@ body {
   color: var(--color-plum-deep);
 }
 
-:focus-visible {
-  outline: 2px solid var(--color-plum);
-  outline-offset: 3px;
-  border-radius: 4px;
+/* In the base layer so utilities (e.g. outline-none on inputs inside a ring) can override it */
+@layer base {
+  :focus-visible {
+    outline: 2px solid var(--color-plum);
+    outline-offset: 3px;
+    border-radius: 4px;
+  }
 }
 
 /* Small uppercase label used above headings */

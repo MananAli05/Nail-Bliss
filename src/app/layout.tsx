@@ -3,7 +3,8 @@ import Script from "next/script";
 import { Cormorant_Garamond, DM_Sans, Pinyon_Script } from "next/font/google";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
-import { site } from "@/lib/site";
+import { getCategory, site } from "@/lib/site";
+import { getAllPosts, postUrl } from "@/lib/posts";
 import { adsenseClient } from "@/lib/ads";
 import "./globals.css";
 
@@ -62,7 +63,15 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         >
           Skip to content
         </a>
-        <Header />
+        <Header
+          posts={getAllPosts().map((p) => ({
+            title: p.title,
+            href: postUrl(p),
+            cover: p.cover,
+            category: getCategory(p.category)?.name ?? "",
+            keywords: p.tags.join(" "),
+          }))}
+        />
         <main id="main" className="flex-1">
           {children}
         </main>
