@@ -37,8 +37,8 @@ export const categories: Category[] = [
   {
     slug: "nail-beauty",
     color: "#6b1e3a",
-    image: "/images/covers/soft-pink-manicure-bow-ring.jpg",
-    imageAlt: "Soft pink manicure with white bow details and a gold bow ring",
+    image: "/images/posts/milky-pink-almond-nails.jpg",
+    imageAlt: "Sheer milky pink almond nails with a gold bow ring",
     name: "Nail Beauty",
     short: "Polish, colors & glam looks",
     description:
@@ -49,8 +49,8 @@ export const categories: Category[] = [
   {
     slug: "nail-shapes",
     color: "#7559b0",
-    image: "/images/covers/nude-almond-nails-gold-ring.jpg",
-    imageAlt: "Nude pink almond-shaped nails with gold rings",
+    image: "/images/posts/pink-coffin-nails-3d-flower.jpg",
+    imageAlt: "Soft pink coffin nails with a 3D flower and gold bow",
     name: "Nail Shapes",
     short: "Almond, oval, coffin & more",
     description:
@@ -61,8 +61,8 @@ export const categories: Category[] = [
   {
     slug: "nail-art-ideas",
     color: "#a23f78",
-    image: "/images/covers/butterfly-nail-art.jpg",
-    imageAlt: "Pastel pink butterfly nail art on almond nails",
+    image: "/images/posts/pink-butterfly-nail-art.jpg",
+    imageAlt: "Pink butterfly nail art on ombré almond nails",
     name: "Nail Art Ideas",
     short: "DIY techniques & tutorials",
     description:
@@ -73,8 +73,8 @@ export const categories: Category[] = [
   {
     slug: "nail-designs",
     color: "#8c2f5c",
-    image: "/images/covers/cherry-nail-art.jpg",
-    imageAlt: "Cherry red nail design with hand-painted cherries",
+    image: "/images/posts/cherry-mocha-cat-eye-nails.jpg",
+    imageAlt: "Cherry mocha cat eye nails with painted cherries",
     name: "Nail Designs",
     short: "Looks for every season",
     description:

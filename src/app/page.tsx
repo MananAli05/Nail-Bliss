@@ -3,9 +3,10 @@ import Link from "next/link";
 import { AdSlot } from "@/components/AdSlot";
 import { CategoryBadge } from "@/components/CategoryBadge";
 import { JsonLd } from "@/components/JsonLd";
+import { Pagination } from "@/components/Pagination";
 import { PostCard } from "@/components/PostCard";
 import { PinterestIcon } from "@/components/icons";
-import { formatDate, getAllPosts, getFeaturedPosts, postUrl } from "@/lib/posts";
+import { formatDate, getAllPosts, getFeaturedPosts, getPostsPage, getTotalPages, postUrl } from "@/lib/posts";
 import { getCategory, site } from "@/lib/site";
 
 export default function HomePage() {
@@ -109,10 +110,11 @@ export default function HomePage() {
       <section className="mt-16">
         <h2 className="font-display text-4xl font-bold text-ink">Latest articles</h2>
         <div className="mt-8 grid gap-x-8 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
-          {all.map((p) => (
+          {getPostsPage(1).map((p) => (
             <PostCard key={p.slug} post={p} />
           ))}
         </div>
+        <Pagination current={1} total={getTotalPages()} />
       </section>
 
       <AdSlot label="Bottom" className="mx-auto mt-16 max-w-3xl" />

@@ -126,3 +126,13 @@ export function getRelatedPosts(post: PostMeta, limit = 3): PostMeta[] {
     p.tags.filter((t) => post.tags.includes(t)).length;
   return others.sort((a, b) => score(b) - score(a)).slice(0, limit);
 }
+
+export const PER_PAGE = 9;
+
+export function getTotalPages() {
+  return Math.max(1, Math.ceil(getAllPosts().length / PER_PAGE));
+}
+
+export function getPostsPage(page: number): PostMeta[] {
+  return getAllPosts().slice((page - 1) * PER_PAGE, page * PER_PAGE);
+}
