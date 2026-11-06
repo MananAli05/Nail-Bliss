@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
+import { imageSize } from "image-size";
 import { Marked } from "marked";
 import { getCategory } from "./site";
 import type { PostMeta } from "./post-utils";
@@ -51,11 +52,25 @@ function render(markdown: string) {
   return { html, toc };
 }
 
+/** Reads width/height from the image file, so editors never have to type them. */
+function imageDimensions(publicPath: string) {
+  try {
+    const { width, height } = imageSize(fs.readFileSync(path.join(process.cwd(), "public", publicPath)));
+    if (width && height) return { width, height };
+  } catch {
+    /* fall through to the default pin size */
+  }
+  return { width: 1024, height: 1536 };
+}
+
 function readFile(file: string): Post {
   const raw = fs.readFileSync(path.join(POSTS_DIR, file), "utf8");
   const { data, content } = matter(raw);
   const { html, toc } = render(content);
   const words = content.split(/\s+/).filter(Boolean).length;
+
+  if (!data.image) throw new Error(`Post "${file}" has no image`);
+  const { width, height } = imageDimensions(data.image);
 
   if (!getCategory(data.category)) {
     throw new Error(`Post "${file}" has unknown category "${data.category}"`);
@@ -64,17 +79,17 @@ function readFile(file: string): Post {
   return {
     slug: file.replace(/\.md$/, ""),
     title: data.title,
-    seoTitle: data.seoTitle,
-    description: data.description,
+    seoTitle: data.seoTitle || undefined,
+    description: data.description ?? "",
     category: data.category,
     date: new Date(data.date).toISOString(),
     updated: data.updated ? new Date(data.updated).toISOString() : undefined,
     image: data.image,
-    cover: data.cover ?? data.image,
-    imageAlt: data.imageAlt,
-    imageWidth: data.imageWidth,
-    imageHeight: data.imageHeight,
-    pinDescription: data.pinDescription,
+    cover: data.cover || data.image,
+    imageAlt: data.imageAlt || data.title,
+    imageWidth: width,
+    imageHeight: height,
+    pinDescription: data.pinDescription || undefined,
     featured: Boolean(data.featured),
     tags: data.tags ?? [],
     readingMinutes: Math.max(1, Math.round(words / 220)),

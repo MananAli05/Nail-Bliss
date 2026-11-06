@@ -4,11 +4,9 @@ seoTitle: "How to Prevent Nail Polish From Chipping (7 Easy Steps)"
 description: "Tired of chipped polish after two days? Follow these 7 simple steps, from nail prep to top coat, to make your at-home manicure last up to a week or longer."
 category: nail-care-tips
 date: 2026-10-13
-image: /images/posts/prevent-nail-polish-chipping-pin.jpg
+image: /images/posts/how-to-prevent-nail-polish-chipping/image.jpg
 imageAlt: "Pink almond nails with tiny white flowers, with a 7-step guide on how to prevent nail polish from chipping"
-cover: /images/covers/pink-almond-nails-sweater.jpg
-imageWidth: 1024
-imageHeight: 1536
+cover: /images/posts/how-to-prevent-nail-polish-chipping/cover.jpg
 pinDescription: "How to prevent nail polish from chipping: 7 easy steps for a longer-lasting, shinier manicure at home. Save for your next nail day!"
 featured: true
 tags: [nail care, chipping, manicure tips, top coat, long lasting manicure]

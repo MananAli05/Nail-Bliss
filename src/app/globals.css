@@ -196,3 +196,13 @@ body {
     scroll-behavior: auto;
   }
 }
+
+/* Images added inside an article from the admin editor */
+.article img {
+  display: block;
+  width: 100%;
+  max-width: 36rem;
+  height: auto;
+  margin-inline: auto;
+  border-radius: 1.25rem;
+}

@@ -4,11 +4,9 @@ seoTitle: "Nail Care Tips & 4 Pretty Nail Art Ideas (Bows, Cherries, Florals)"
 description: "Healthy nails, beautiful hands, always. Try 4 dreamy nail art ideas (coquette bows, cherries, floral French tips and butterflies), plus simple nail care habits that keep nails strong."
 category: nail-care-tips
 date: 2026-10-11
-image: /images/posts/nail-care-tips-healthy-nails-pin.jpg
+image: /images/posts/nail-care-tips-healthy-nails-beautiful-hands/image.jpg
 imageAlt: "Pink nail care and tips guide with coquette bow, cherry, floral French tip and butterfly nail art ideas"
-cover: /images/covers/floral-french-tip-nails.jpg
-imageWidth: 1024
-imageHeight: 1536
+cover: /images/posts/nail-care-tips-healthy-nails-beautiful-hands/cover.jpg
 pinDescription: "Nail care & tips: coquette bow, cherry, floral French tip and butterfly nail art ideas, plus easy habits for healthy nails and beautiful hands."
 featured: true
 tags: [nail care, nail art ideas, coquette nails, cherry nails, butterfly nails, french tip]

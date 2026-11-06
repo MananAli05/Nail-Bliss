@@ -4,11 +4,8 @@ seoTitle: "Long Oval Nails: Black Floral Nail Design With Gold"
 description: "Long oval nails are classic and elegant. Learn how to shape them, and how to wear glossy black with smoky flowers and gold accents for a luxe look."
 category: nail-shapes
 date: 2026-10-17
-image: /images/posts/long-oval-black-floral-nails.jpg
-cover: /images/posts/long-oval-black-floral-nails.jpg
+image: /images/posts/long-oval-black-floral-nails/image.jpg
 imageAlt: "Long glossy black oval nails with smoky grey 3D flowers, pearls and thin gold lines"
-imageWidth: 1024
-imageHeight: 1536
 pinDescription: "Long oval nails in glossy black with smoky flowers and gold details. Elegant, moody and so luxe!"
 tags: [oval nails, black nails, nail shapes, floral nails, elegant nails]
 ---

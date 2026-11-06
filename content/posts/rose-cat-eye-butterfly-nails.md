@@ -4,11 +4,8 @@ seoTitle: "Rose Cat Eye Nails With Butterflies: Velvet Nail Design"
 description: "Rose cat eye nails have a velvety, glowing shimmer, and burgundy butterfly accents make them extra romantic. Learn how cat eye polish works and how to get this design."
 category: nail-designs
 date: 2026-10-18
-image: /images/posts/rose-cat-eye-butterfly-nails.jpg
-cover: /images/posts/rose-cat-eye-butterfly-nails.jpg
+image: /images/posts/rose-cat-eye-butterfly-nails/image.jpg
 imageAlt: "Dusty rose cat eye almond nails with velvet shimmer and burgundy butterfly accents on nude nails"
-imageWidth: 1024
-imageHeight: 1536
 pinDescription: "Rose cat eye nails with butterfly accents! Velvety, glowing shimmer and romantic burgundy butterflies."
 tags: [cat eye nails, rose nails, butterfly nails, velvet nails, fall nails]
 ---

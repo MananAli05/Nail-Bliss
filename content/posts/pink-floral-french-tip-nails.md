@@ -4,11 +4,8 @@ seoTitle: "Pink Floral French Tip Nails: Easy Flower Nail Art Tutorial"
 description: "White French tips covered in tiny pink blossoms are the prettiest spring nail art. Follow this beginner-friendly tutorial to paint the flowers at home."
 category: nail-art-ideas
 date: 2026-10-15
-image: /images/posts/pink-floral-french-tip-nails.jpg
-cover: /images/posts/pink-floral-french-tip-nails.jpg
+image: /images/posts/pink-floral-french-tip-nails/image.jpg
 imageAlt: "Almond nails with white French tips and tiny hand-painted pink flowers and green leaves"
-imageWidth: 1024
-imageHeight: 1536
 pinDescription: "Pink floral French tip nails! Easy hand-painted flower nail art tutorial for beginners. Perfect spring nails."
 tags: [floral nails, french tip, flower nail art, spring nails, nail art tutorial]
 ---

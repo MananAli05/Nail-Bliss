@@ -4,11 +4,9 @@ seoTitle: "Coquette Bow Nails: Easy Step-by-Step Tutorial for Beginners"
 description: "Learn how to do coquette bow nails at home with this easy French tip tutorial. Includes the tools you need, four simple steps and pro tips for a cute, long-lasting finish."
 category: nail-care-tips
 date: 2026-10-14
-image: /images/posts/coquette-bow-nail-art-pin.jpg
+image: /images/posts/coquette-bow-nail-art-tutorial/image.jpg
 imageAlt: "Almond French tip nails with pink coquette bows, tiny gems and a gold bow ring"
-cover: /images/covers/coquette-bow-french-tip-nails.jpg
-imageWidth: 1254
-imageHeight: 1254
+cover: /images/posts/coquette-bow-nail-art-tutorial/cover.jpg
 pinDescription: "Coquette bow nail art tutorial: soft pink French tips with cute bows and tiny gems. Easy step-by-step DIY nails for beginners!"
 featured: true
 tags: [coquette nails, bow nails, french tip, nail art tutorial, pink nails]

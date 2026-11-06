@@ -10,9 +10,24 @@ npm run dev     # http://localhost:3000
 npm run build   # production build
 ```
 
-## Adding a post
+## Adding a post (admin panel)
 
-Add the images to `public/images/posts/` (Pinterest pin) and `public/images/covers/` (photo for cards), then create a Markdown file in `content/posts/`. The file name becomes the URL slug. Copy the front matter from an existing post and change the values. `category` must be one of `nail-care-tips`, `nail-beauty`, `nail-shapes`, `nail-art-ideas` or `nail-designs`.
+Posts are managed with [Keystatic](https://keystatic.com) at `/keystatic`:
+
+- **Live site:** open https://www.nailblissbs.com/keystatic and log in with GitHub. Only GitHub accounts with write access to this repo can edit. Saving a post commits it to GitHub, and Vercel publishes it in about 1–2 minutes.
+- **Locally:** run `npm run dev`, then open http://localhost:3000/keystatic. Edits are written straight to the files in `content/posts/`.
+
+Each post is a Markdown file in `content/posts/` (the file name is the URL slug), with its images in `public/images/posts/<slug>/`. Image sizes are read from the files automatically.
+
+### One-time GitHub setup for the live admin
+
+1. Locally, put `NEXT_PUBLIC_KEYSTATIC_GITHUB=1` in `.env.local`, run `npm run dev` and open http://localhost:3000/keystatic.
+2. Follow the prompt to create the GitHub App, and install it on this repository. Keystatic writes the four `KEYSTATIC_*` keys to a local `.env` file (never commit it).
+3. In the GitHub App settings, add the callback URL `https://www.nailblissbs.com/api/keystatic/github/oauth/callback`.
+4. Add the four keys to Vercel (Settings → Environment Variables; mark the client secret and `KEYSTATIC_SECRET` as Secret) and redeploy.
+5. Remove `NEXT_PUBLIC_KEYSTATIC_GITHUB=1` from `.env.local`.
+
+Until the keys are set, the live admin stays switched off (its API returns 404).
 
 ## Configuration
 

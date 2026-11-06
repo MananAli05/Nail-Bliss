@@ -4,11 +4,8 @@ seoTitle: "Cherry Mocha Cat Eye Nails: Cozy Fall & Winter Nail Design"
 description: "Cherry mocha cat eye nails blend deep cherry-brown shimmer with cute painted cherries and sparkles. It's the perfect cozy nail design for fall and winter."
 category: nail-designs
 date: 2026-10-17
-image: /images/posts/cherry-mocha-cat-eye-nails.jpg
-cover: /images/posts/cherry-mocha-cat-eye-nails.jpg
+image: /images/posts/cherry-mocha-cat-eye-nails/image.jpg
 imageAlt: "Cherry mocha cat eye almond nails with sheer brown accent nails, painted cherries and sparkles"
-imageWidth: 1024
-imageHeight: 1536
 pinDescription: "Cherry mocha cat eye nails! Deep cherry-brown shimmer with cute cherries. The coziest fall and winter nail design."
 tags: [cat eye nails, cherry nails, mocha nails, fall nails, winter nails, brown nails]
 ---

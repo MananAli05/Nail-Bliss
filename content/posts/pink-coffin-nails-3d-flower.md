@@ -4,11 +4,8 @@ seoTitle: "Coffin Nails: Soft Pink Ballerina Nails With 3D Flowers"
 description: "Coffin (ballerina) nails are trendy and dramatic. Learn how to shape them, how to keep them strong, and how to get this soft pink design with 3D flowers, pearls and gold bows."
 category: nail-shapes
 date: 2026-10-18
-image: /images/posts/pink-coffin-nails-3d-flower.jpg
-cover: /images/posts/pink-coffin-nails-3d-flower.jpg
+image: /images/posts/pink-coffin-nails-3d-flower/image.jpg
 imageAlt: "Long soft pink coffin nails with a 3D white flower, gold bow charm, pearls and gold French lines"
-imageWidth: 1024
-imageHeight: 1536
 pinDescription: "Soft pink coffin nails with 3D flowers, pearls and gold bows. Dreamy ballerina nails for weddings and special occasions!"
 featured: true
 tags: [coffin nails, ballerina nails, pink nails, 3d nail art, wedding nails]

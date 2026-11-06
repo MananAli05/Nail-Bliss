@@ -4,11 +4,8 @@ seoTitle: "Sage Green Nails With White Flowers: Soft Spring Manicure"
 description: "Soft sage green nails with hand-painted white daisies are a fresh, calming manicure for spring. Learn how to recreate the look with simple tools."
 category: nail-beauty
 date: 2026-10-18
-image: /images/posts/sage-green-flower-nails.jpg
-cover: /images/posts/sage-green-flower-nails.jpg
+image: /images/posts/sage-green-flower-nails/image.jpg
 imageAlt: "Sage green almond nails with small hand-painted white flowers and a gold flower ring"
-imageWidth: 1024
-imageHeight: 1536
 pinDescription: "Sage green nails with tiny white flowers. A soft, fresh spring manicure that's easy to do at home."
 tags: [green nails, sage nails, flower nails, spring nails, almond nails]
 ---

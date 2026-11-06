@@ -4,11 +4,8 @@ seoTitle: "Burgundy Nails: Classic Wine Red Manicure Ideas & Tips"
 description: "Deep burgundy nails never go out of style. Learn how to get a flawless, glossy wine red manicure at home and how to style it for date night, the office and the holidays."
 category: nail-beauty
 date: 2026-10-16
-image: /images/posts/burgundy-wine-red-nails.jpg
-cover: /images/posts/burgundy-wine-red-nails.jpg
+image: /images/posts/burgundy-wine-red-nails/image.jpg
 imageAlt: "Glossy burgundy wine red almond nails with a dainty gold flower ring"
-imageWidth: 1024
-imageHeight: 1536
 pinDescription: "Burgundy wine red nails: the classic, elegant manicure for fall, winter and date night. Glossy almond nails you'll love."
 featured: true
 tags: [burgundy nails, red nails, wine nails, fall nails, winter nails]

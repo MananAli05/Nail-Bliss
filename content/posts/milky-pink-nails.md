@@ -4,11 +4,8 @@ seoTitle: "Milky Pink Nails: Clean Girl Manicure Guide"
 description: "Soft, sheer milky pink nails are the ultimate 'your nails but better' look. Here's how to get the glossy, natural finish at home and keep it looking fresh."
 category: nail-beauty
 date: 2026-10-17
-image: /images/posts/milky-pink-almond-nails.jpg
-cover: /images/posts/milky-pink-almond-nails.jpg
+image: /images/posts/milky-pink-nails/image.jpg
 imageAlt: "Sheer milky pink almond nails with a gold bow ring and a pink knit sweater"
-imageWidth: 1024
-imageHeight: 1536
 pinDescription: "Milky pink nails: the clean girl manicure that goes with everything. Soft, glossy almond nails for everyday elegance."
 tags: [pink nails, milky nails, clean girl nails, natural nails, almond nails]
 ---

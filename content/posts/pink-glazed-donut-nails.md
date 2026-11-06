@@ -4,11 +4,8 @@ seoTitle: "Pink Glazed Donut Nails: How to Get the Pearly Chrome Look"
 description: "Pink glazed donut nails give a soft, pearly shine that makes nails look healthy and expensive. Learn how to get the glazed look with or without gel, plus cute ways to style it."
 category: nail-designs
 date: 2026-10-16
-image: /images/posts/pink-glazed-donut-nails.jpg
-cover: /images/posts/pink-glazed-donut-nails.jpg
+image: /images/posts/pink-glazed-donut-nails/image.jpg
 imageAlt: "Soft pink glazed donut almond nails with pearly chrome shine and a tiny heart charm"
-imageWidth: 1024
-imageHeight: 1536
 pinDescription: "Pink glazed donut nails! Soft pearly chrome manicure that looks healthy, glossy and expensive. Perfect everyday nails."
 tags: [glazed donut nails, chrome nails, pink nails, pearl nails, everyday nails]
 ---

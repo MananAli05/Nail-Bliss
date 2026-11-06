@@ -4,11 +4,8 @@ seoTitle: "Pink Butterfly Nail Art: Easy Step-by-Step Tutorial"
 description: "Dreamy pink butterfly nails with soft ombré tips and sparkles. Learn three easy ways to get butterflies on your nails: stickers, hand-painting and charms."
 category: nail-art-ideas
 date: 2026-10-16
-image: /images/posts/pink-butterfly-nail-art.jpg
-cover: /images/posts/pink-butterfly-nail-art.jpg
+image: /images/posts/pink-butterfly-nail-art/image.jpg
 imageAlt: "Soft pink almond nails with pink butterflies, white ombré tips, tiny stars and a gold butterfly ring"
-imageWidth: 1024
-imageHeight: 1536
 pinDescription: "Pink butterfly nail art for beginners! Soft ombré nails with dreamy butterflies and sparkles. Save this tutorial."
 featured: true
 tags: [butterfly nails, pink nails, nail art tutorial, ombre nails, spring nails]

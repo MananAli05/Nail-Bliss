@@ -4,11 +4,8 @@ seoTitle: "Lilac Chrome Nails: Pearly Lavender Manicure Ideas"
 description: "Lilac chrome nails have a soft, iridescent pearl shine that looks magical in every light. Here's how to get the look with chrome powder or polish, and how to wear it all year."
 category: nail-designs
 date: 2026-10-19
-image: /images/posts/lilac-chrome-nails.jpg
-cover: /images/posts/lilac-chrome-nails.jpg
+image: /images/posts/lilac-chrome-nails/image.jpg
 imageAlt: "Long almond nails with an iridescent lilac pearl chrome finish and a white knit sweater"
-imageWidth: 1024
-imageHeight: 1536
 pinDescription: "Lilac chrome nails! Dreamy, pearly lavender manicure that shines in every light. Perfect for any season."
 featured: true
 tags: [chrome nails, lilac nails, lavender nails, pearl nails, almond nails]

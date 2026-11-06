@@ -4,11 +4,8 @@ seoTitle: "Chocolate Brown Nails: How to Wear the Cozy Fall Manicure"
 description: "Glossy chocolate brown almond nails are the ultimate cozy-season manicure. Here's how to get the rich, mirror-shine look at home, plus tips for choosing the right brown for your skin tone."
 category: nail-beauty
 date: 2026-10-15
-image: /images/posts/chocolate-brown-almond-nails.jpg
-cover: /images/posts/chocolate-brown-almond-nails.jpg
+image: /images/posts/chocolate-brown-nails/image.jpg
 imageAlt: "Glossy chocolate brown almond nails with a gold flower ring and a cream knit sweater"
-imageWidth: 1024
-imageHeight: 1536
 pinDescription: "Chocolate brown nails for fall! Glossy almond manicure with a cozy, elegant vibe. Save this for your next nail appointment."
 tags: [brown nails, fall nails, almond nails, glossy nails, nail colors]
 ---

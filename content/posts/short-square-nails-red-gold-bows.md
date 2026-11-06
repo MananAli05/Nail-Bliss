@@ -4,11 +4,8 @@ seoTitle: "Short Square Nails: Red and Nude Design With Gold Bows"
 description: "Short square nails are strong, practical and super chic. Learn how to shape them and get this romantic red and nude design with gold bow charms."
 category: nail-shapes
 date: 2026-10-16
-image: /images/posts/short-square-red-nails-gold-bows.jpg
-cover: /images/posts/short-square-red-nails-gold-bows.jpg
+image: /images/posts/short-square-nails-red-gold-bows/image.jpg
 imageAlt: "Short square red and nude nails with gold bow charms, a red heart gem and a white flower"
-imageWidth: 1024
-imageHeight: 1536
 pinDescription: "Short square nails in red and nude with gold bows. Strong, practical and so romantic. Perfect for Valentine's Day!"
 tags: [square nails, short nails, red nails, bow nails, valentines nails]
 ---

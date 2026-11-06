@@ -4,11 +4,8 @@ seoTitle: "Cherry Nails With Bows: Burgundy French Tip Nail Art"
 description: "Cute cherries, tiny bows and deep burgundy French tips: this flirty nail art is perfect for Valentine's Day and date night. Here's how to paint it step by step."
 category: nail-art-ideas
 date: 2026-10-20
-image: /images/posts/cherry-bow-burgundy-french-nails.jpg
-cover: /images/posts/cherry-bow-burgundy-french-nails.jpg
+image: /images/posts/cherry-bow-burgundy-french-nails/image.jpg
 imageAlt: "Nude almond nails with hand-painted cherries, tiny burgundy bows and deep burgundy French tips"
-imageWidth: 1024
-imageHeight: 1536
 pinDescription: "Cherry bow nails with burgundy French tips! Cute, flirty nail art for Valentine's Day and date night. Easy tutorial."
 featured: true
 tags: [cherry nails, bow nails, burgundy nails, french tip, valentines nails, nail art tutorial]

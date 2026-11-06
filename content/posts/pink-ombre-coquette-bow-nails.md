@@ -4,11 +4,8 @@ seoTitle: "Pink Ombré Coquette Bow Nails: Painted, 3D & Charm Bows"
 description: "Soft pink ombré nails with coquette bows are the sweetest manicure of the season. Learn three ways to add bows (painted, 3D gel and charms) for any skill level."
 category: nail-art-ideas
 date: 2026-10-17
-image: /images/posts/pink-ombre-coquette-bow-nails.jpg
-cover: /images/posts/pink-ombre-coquette-bow-nails.jpg
+image: /images/posts/pink-ombre-coquette-bow-nails/image.jpg
 imageAlt: "Soft pink ombré almond nails with painted pink bows, a 3D pink bow, a heart gem and a gold bow ring"
-imageWidth: 1024
-imageHeight: 1536
 pinDescription: "Pink ombré coquette bow nails! 3 easy ways to do bows: painted, 3D and charms. The sweetest manicure ever."
 tags: [coquette nails, bow nails, pink nails, ombre nails, nail art ideas]
 ---

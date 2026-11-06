@@ -4,11 +4,8 @@ seoTitle: "Almond Nails Guide: How to Shape Almond Nails + Design Idea"
 description: "Almond nails make fingers look longer and more elegant. Learn how to file the perfect almond shape at home, who it suits, and try this dreamy floral gold French design."
 category: nail-shapes
 date: 2026-10-15
-image: /images/posts/almond-nails-floral-gold-french.jpg
-cover: /images/posts/almond-nails-floral-gold-french.jpg
+image: /images/posts/almond-nails-floral-gold-french/image.jpg
 imageAlt: "Long almond nails with nude base, white floral art and thin gold French tip outlines"
-imageWidth: 1024
-imageHeight: 1536
 pinDescription: "Almond nails: the most flattering nail shape! Plus a dreamy nude floral design with gold French tips."
 tags: [almond nails, nail shapes, french tip, floral nails, gold nails]
 ---
