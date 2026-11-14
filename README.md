@@ -35,6 +35,5 @@ Copy `.env.example` to `.env.local`:
 
 - `NEXT_PUBLIC_SITE_URL`: live domain
 - `NEXT_PUBLIC_PINTEREST_VERIFY`: Pinterest site verification code
-- `NEXT_PUBLIC_ADSENSE_CLIENT`: AdSense publisher ID (ads stay hidden until it's set)
 
-Site name, contact email, Pinterest link and categories are in `src/lib/site.ts`.
+Site name, contact email, Pinterest link and categories are in `src/lib/site.ts`. The AdSense publisher ID is in `src/lib/ads.ts`, and `public/ads.txt` must use the same ID.

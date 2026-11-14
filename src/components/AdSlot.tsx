@@ -1,9 +1,7 @@
 "use client";
 
 import { useEffect, useRef } from "react";
-import { adsenseClient } from "@/lib/ads";
-
-const isDev = process.env.NODE_ENV === "development";
+import { ADSENSE_CLIENT } from "@/lib/ads";
 
 declare global {
   interface Window {
@@ -11,33 +9,25 @@ declare global {
   }
 }
 
-/**
- * Reserved ad space. Renders nothing until NEXT_PUBLIC_ADSENSE_CLIENT is set,
- * except in development, where a labelled placeholder shows where ads will go.
- */
-export function AdSlot({
-  slot,
-  label = "Advertisement",
-  className = "",
-}: {
+type AdSlotProps = {
   slot?: string;
   label?: string;
   className?: string;
-}) {
+};
+
+export function AdSlot({ slot, label = "Advertisement", className = "" }: AdSlotProps) {
   const ref = useRef<HTMLModElement>(null);
 
   useEffect(() => {
-    if (!adsenseClient || !ref.current || ref.current.dataset.loaded) return;
-    ref.current.dataset.loaded = "1";
+    if (!slot || !ref.current || ref.current.dataset.loaded) return;
+    ref.current.dataset.loaded = "true";
     try {
       (window.adsbygoogle = window.adsbygoogle || []).push({});
-    } catch {
-      /* ad blockers */
-    }
-  }, []);
+    } catch {}
+  }, [slot]);
 
-  if (!adsenseClient) {
-    if (!isDev) return null;
+  if (!slot) {
+    if (process.env.NODE_ENV !== "development") return null;
     return (
       <div
         className={`grid min-h-[120px] place-items-center rounded-2xl border border-dashed border-rose bg-white/50 text-[0.65rem] uppercase tracking-[0.25em] text-rose-deep ${className}`}
@@ -53,7 +43,7 @@ export function AdSlot({
       <ins
         ref={ref}
         className="adsbygoogle block"
-        data-ad-client={adsenseClient}
+        data-ad-client={ADSENSE_CLIENT}
         data-ad-slot={slot}
         data-ad-format="auto"
         data-full-width-responsive="true"
