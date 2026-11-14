@@ -1,6 +1,6 @@
 ---
 title: 10 Brown Cat Eye Nail Designs for Your Next Manicure
-category: nail-care-tips
+category: nail-designs
 description: >-
   10 brown cat eye nail designs - gold bow, glitter, crystals & swirls. Save
   these fall manicure ideas!
