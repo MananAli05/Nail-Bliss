@@ -1,6 +1,7 @@
 import { ADSENSE_SRC } from "@/lib/ads";
 import { getAllPosts, postUrl } from "@/lib/posts";
 import { getCategory } from "@/lib/site";
+import { Analytics } from "./Analytics";
 import { Footer } from "./Footer";
 import { Header } from "./Header";
 
@@ -27,6 +28,7 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
         {children}
       </main>
       <Footer />
+      <Analytics />
     </>
   );
 }
