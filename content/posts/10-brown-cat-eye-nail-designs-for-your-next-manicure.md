@@ -26,25 +26,17 @@ Here are 10 beautiful brown cat eye designs you can save and show to your nail a
 
 ## 1. Brown Cat Eye With Gold Bow
 
-![](/images/posts/10-brown-cat-eye-nail-designs-for-your-next-manicure/IMG-20261116-WA7530.jpg)
-
 This is the hero design in the photo. Deep brown cat eye base with a small gold 3D bow and one crystal in the center. It is elegant, cute, and perfect for fall parties and weddings.
 
 ## 2. Brown Cat Eye With Gold Swirls
-
-![](/images/posts/10-brown-cat-eye-nail-designs-for-your-next-manicure/94b7c4701347346b0d0d8194677b1bc5.jpg)
 
 Brown cat eye with thin gold swirl lines going diagonally across the nail. It looks like gold silk on brown glass. Very classy and perfect for office and dinner.
 
 ## 3. Brown Cat Eye With Crystal Side Line
 
-![](/images/posts/10-brown-cat-eye-nail-designs-for-your-next-manicure/3ac6e9877fce5a3f616ee6d3fbe1a8a7.jpg)
-
 One nail with a curved line of tiny crystals on the side. It adds sparkle without being too loud. Perfect if you love minimal glam.
 
 ## 4. Brown Cat Eye With Star Sparkles
-
-![](/images/posts/10-brown-cat-eye-nail-designs-for-your-next-manicure/b4a622bac28c704cb6d2fd26b72b0791.jpg)
 
 Brown cat eye with tiny white star sparkles on top. It looks like stars in a night sky. Very dreamy and perfect for photos.
 
