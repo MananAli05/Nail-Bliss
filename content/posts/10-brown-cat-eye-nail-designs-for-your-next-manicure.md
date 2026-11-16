@@ -32,6 +32,8 @@ This is the hero design in the photo. Deep brown cat eye base with a small gold 
 
 ## 2. Brown Cat Eye With Gold Swirls
 
+![](/images/posts/10-brown-cat-eye-nail-designs-for-your-next-manicure/94b7c4701347346b0d0d8194677b1bc5.jpg)
+
 Brown cat eye with thin gold swirl lines going diagonally across the nail. It looks like gold silk on brown glass. Very classy and perfect for office and dinner.
 
 ## 3. Brown Cat Eye With Crystal Side Line
