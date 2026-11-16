@@ -38,6 +38,8 @@ Brown cat eye with thin gold swirl lines going diagonally across the nail. It lo
 
 ## 3. Brown Cat Eye With Crystal Side Line
 
+![](/images/posts/10-brown-cat-eye-nail-designs-for-your-next-manicure/3ac6e9877fce5a3f616ee6d3fbe1a8a7.jpg)
+
 One nail with a curved line of tiny crystals on the side. It adds sparkle without being too loud. Perfect if you love minimal glam.
 
 ## 4. Brown Cat Eye With Star Sparkles
