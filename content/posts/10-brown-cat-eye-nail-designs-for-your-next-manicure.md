@@ -44,6 +44,8 @@ One nail with a curved line of tiny crystals on the side. It adds sparkle withou
 
 ## 4. Brown Cat Eye With Star Sparkles
 
+![](/images/posts/10-brown-cat-eye-nail-designs-for-your-next-manicure/b4a622bac28c704cb6d2fd26b72b0791.jpg)
+
 Brown cat eye with tiny white star sparkles on top. It looks like stars in a night sky. Very dreamy and perfect for photos.
 
 ## 5. Brown Cat Eye With Full Gold Glitter Nail
