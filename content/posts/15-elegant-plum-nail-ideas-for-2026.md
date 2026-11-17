@@ -65,17 +65,25 @@ Fig plum is a muted, brownish-plum shade inspired by fig jam. It is earthy, cozy
 
 ## 7. Burgundy Plum Star Bow Nails
 
+![](/images/posts/15-elegant-plum-nail-ideas-for-2026/IMG-20261117-WA3227.jpg)
+
 This playful design mixes deep burgundy with tiny stars and a cute bow accent. It is festive and youthful, perfect for Christmas, New Year, and birthday parties. The bow adds a coquette, Pinterest-style charm, while the stars add sparkle. The base is glossy burgundy plum, so it still looks elegant and not childish. Pair it with a red or burgundy dress and gold earrings. If you love cute, trendy nails with a festive touch, this design is for you. It is also very popular on TikTok in 2026.
 
 ## 8. Cherry Burgundy Plum Nails
+
+![](/images/posts/15-elegant-plum-nail-ideas-for-2026/IMG-20261117-WA6734.jpg)
 
 Cherry plum is a brighter, red-toned plum. It is bold, juicy, and confident. The color is like ripe cherries mixed with deep plum wine. It looks amazing on medium and deep skin tones. Wear it with red lipstick and a black dress for a classic, powerful look. This design is perfect for date nights, parties, and holiday events. It is glossy, smooth, and eye-catching. If you want a plum shade that feels bold and feminine at the same time, cherry burgundy is the best choice.
 
 ## 9. Berry Chrome Plum Nails
 
+![](/images/posts/15-elegant-plum-nail-ideas-for-2026/IMG-20261117-WA1720.jpg)
+
 Chrome is still huge in 2026. This design uses berry-plum chrome powder over a plum base for a mirror-like shine. It reflects light beautifully in photos. The color shifts from berry pink to deep plum depending on the light. It is perfect for parties, concerts, and Instagram pictures. Pair it with silver jewelry and a satin dress. This is a modern, trendy plum design for women who love shine and glamour. It works best on long almond or coffin nails where the chrome effect shows clearly.
 
 ## 10. Plum Flower Bloom Nails
+
+![](/images/posts/15-elegant-plum-nail-ideas-for-2026/IMG-20261117-WA5075.jpg)
 
 Delicate plum flowers are hand-painted on a nude and plum base. The flowers look soft and romantic, like cherry blossoms. Some nails are solid plum, others have tiny flower art with pearls. This is one of the best designs for spring weddings, brunches, and baby showers. It is feminine, artistic, and very Pinterest-worthy. The combination of plum and nude keeps it elegant and not too busy. Pair it with a floral dress and pearl earrings for a complete romantic look.
 
