@@ -69,6 +69,8 @@ Best for: Spring, summer, garden parties, picnics, and daytime celebrations.
 
 ## 5. Pink Glitter Nails
 
+![](/images/posts/20-gorgeous-pink-nail-ideas-for-a-cute-manicure-1/IMG-20261116-WA5363.jpg)
+
 If you enjoy a little sparkle, pink glitter nails are an easy way to make your manicure stand out. Try a light pink base with fine silver glitter, sparkling tips, or one full-glitter accent nail.
 
 Fine glitter gives a delicate shimmer, while larger glitter particles create a more noticeable party look.
