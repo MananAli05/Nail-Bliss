@@ -98,7 +98,7 @@ The gold bow makes the whole manicure look like a gift.
 
 ## 3. Olive Brown Cat Eye Nails
 
-
+![](/images/posts/10-cat-eye-nail-designs-for-your-next-manicure/IMG-20261117-WA1044.jpg)
 
 This design is soft, modern, and very elegant. The base is a mix of olive and brown cat eye. The magnetic line is subtle and silky. The finish is glossy and clean.
 
