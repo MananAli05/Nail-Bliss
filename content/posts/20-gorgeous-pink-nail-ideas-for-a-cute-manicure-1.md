@@ -2,8 +2,8 @@
 title: 20 Gorgeous Pink Nail Ideas For A Cute Manicure
 category: nail-designs
 description: >-
-  20 gorgeous pink nail ideas with bows, pearls, flowers & French tips. Perfect
-  for cute, bridal, wedding & everyday manicure.
+  Explore 20 gorgeous pink nail designs, from soft baby pink and elegant French
+  tips to chrome, floral, and pearl manicures. Find your perfect look!
 date: 2026-11-16
 image: /images/posts/20-gorgeous-pink-nail-ideas-for-a-cute-manicure-1/image.jpg
 imageAlt: >-
