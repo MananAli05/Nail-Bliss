@@ -113,6 +113,8 @@ Glass nails use a sheer, jelly plum polish that looks like stained glass. You ca
 
 ## 15. Plum Pearl Bow Nails
 
+![](/images/posts/15-elegant-plum-nail-ideas-for-2026/IMG-20261117-WA5034.jpg)
+
 This is the most elegant design in this list. Plum jelly nails are decorated with tiny pearls, a white bow, and pearl flowers. It looks like royal jewelry on your nails. The base is glossy plum with a soft shine, and the pearls add a luxury touch. Perfect for engagements, weddings, and luxury events. Pair it with pearl earrings and a plum dress for a complete royal look. If you want everyone to ask about your nails, choose this design. It is timeless, feminine, and truly elegant.
 
 ## Best Occasions for Plum Nails
