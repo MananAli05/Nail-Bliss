@@ -188,6 +188,8 @@ It looks like melted chocolate, warm coffee, and luxury all in one.
 
 ## 8. Tortoise Shell Jelly Nails
 
+![](/images/posts/10-cat-eye-nail-designs-for-your-next-manicure/IMG-20261117-WA2868.jpg)
+
 Tortoise shell nails are a classic trend that always comes back. This design uses sheer brown jelly with darker brown spots at the tips. It looks like real tortoise shell, but soft and modern.
 
 It is chic, artistic, and very popular in the USA.
