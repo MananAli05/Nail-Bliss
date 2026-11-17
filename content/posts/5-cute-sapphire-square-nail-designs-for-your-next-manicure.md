@@ -55,6 +55,8 @@ This design looks best on long almond nails because the cat-eye line looks longe
 
 ## 3. Sapphire Bow French Nails
 
+![](/images/posts/5-cute-sapphire-square-nail-designs-for-your-next-manicure/IMG-20261117-WA6789.jpg)
+
 This is the cutest and most Pinterest-worthy design in this list, and also the most perfect for coquette lovers. It is a soft, sweet, sapphire blue and pink set with cute bows and rhinestones. All the nails are in a long square shape, which makes them look neat and trendy.
 
 The design is a mix of full sapphire nails and French nails. Some nails are fully covered in deep sapphire blue glossy polish. One nail has a big 3D sapphire blue bow with a diamond in the center, which is the hero nail of this set. Another nail has a soft pink base with a small hand-painted sapphire blue bow and tiny stars. The other nails have a sapphire blue French tip with a row of rhinestones on the smile line. The shine of the blue and the sparkle of the diamonds make it look very cute and luxurious.
@@ -65,6 +67,8 @@ This design looks best on long square nails because the artist has space to pain
 
 ## 4. Sapphire Floral Glitter Nails
 
+![](/images/posts/5-cute-sapphire-square-nail-designs-for-your-next-manicure/IMG-20261117-WA3791.jpg)
+
 This is the most fresh and romantic design in this list, and also the most perfect for spring and summer. It is a deep, sparkling, sapphire blue glitter set with soft blue flowers and rhinestones. All the nails are in a long square shape, which makes them look clean and elegant.
 
 The design is a mix of glitter and floral art. Some nails are fully covered in deep sapphire blue glitter with tiny sparkles. One nail has a big, soft, light blue 3D flower with a diamond in the center, which looks like a real flower blooming on the nail. The other nails have a soft pink base with a sapphire blue glitter French tip, decorated with a curved line of rhinestones and small blue gems. The sparkle of the glitter looks like blueberry shine under light.
@@ -74,6 +78,8 @@ What makes this design so special is the freshness. It is glittery but not too h
 This design looks best on long square nails because the artist has space to place the 3D flower neatly. Pair it with a light blue dress, a white floral dress, a navy blue sweater, silver jewelry, and a diamond bow ring for a complete fresh look. If you want to make it simpler, you can keep only one flower nail and keep the rest plain sapphire glitter. It will still look beautiful. This is a perfect design to save for your next spring party, summer wedding, birthday, or baby shower if you want nails that look fresh, romantic, and expensive.
 
 ## 5. Sapphire Glitter French Nails
+
+![](/images/posts/5-cute-sapphire-square-nail-designs-for-your-next-manicure/IMG-20261117-WA9651.jpg)
 
 This is the cleanest and most elegant design in this list, and also the most perfect for everyday luxury. It is a simple, classy, sapphire blue glitter French set with soft pink and tiny gems. All the nails are in a medium square shape, which makes them look neat and professional.
 
