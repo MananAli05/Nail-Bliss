@@ -104,6 +104,8 @@ Pro Tip: Ask for a strong cat eye line in the center. A clear magnetic line make
 
 ## 3. Multi Jewel French Nails
 
+![](/images/posts/6-expensive-looking-nail-ideas-2026/293b8ba49253dc61560576f374e78dec.jpg)
+
 This design is colourful, festive, and full of sparkle. Each nail has a different jewel colour. One nail is burgundy, one is green, one is nude with a gold bow, one is navy blue with pearls, and one is lavender with a crystal.
 
 It looks like a jewelry box on your nails.
@@ -121,6 +123,8 @@ Nail Shape: Almond shape is best.
 Pro Tip: If you want a softer look, ask for fewer jewels. If you want a party look, ask for more pearls and crystals.
 
 ## 4. Teal Rich Berry Cat Eye Pearl Nails
+
+![](/images/posts/6-expensive-looking-nail-ideas-2026/7fca27b9de4dfb9d3338581691400111.jpg)
 
 This design is rich, artistic, and very luxurious. The base is deep teal rich berry cat eye with a golden glow. One nail has a small gold star, one has a pearl flower, one has a pearl French curve, and one has a tiny gold bow.
 
@@ -140,6 +144,8 @@ Pro Tip: Pair this design with a pearl ring or gold bow ring. It will complete t
 
 ## 5. Tortoise Gold French Nails
 
+![](/images/posts/6-expensive-looking-nail-ideas-2026/40085e513317d8ccd63cfc8773071f77.jpg)
+
 This design is chic, classy, and very trendy in the USA. The base is sheer nude with tortoise shell French tips in brown and amber. The tips are outlined with thin gold lines. Some nails have small gold flowers, stars, and crystals.
 
 It looks like expensive tortoise shell jewelry.
@@ -157,6 +163,8 @@ Nail Shape: Almond shape is ideal.
 Pro Tip: Ask your nail tech to keep the gold lines thin. Thin gold lines look more expensive than thick lines.
 
 ## 6. Bridal Pearl Flower Nails
+
+![](/images/posts/6-expensive-looking-nail-ideas-2026/c14cb9de190c86257329de625d2908ce.jpg)
 
 This design is soft, dreamy, and perfect for brides. The base is sheer pink nude. The nails have small pink 3D flowers with pearl centers. There are also tiny pearls, crystals, and gold glitter all over the nails.
 
