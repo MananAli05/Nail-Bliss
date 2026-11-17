@@ -134,6 +134,8 @@ This design is perfect if you love clean girl nails.
 
 ## 5. Purple Black Cat Eye Nails
 
+![](/images/posts/10-cat-eye-nail-designs-for-your-next-manicure/IMG-20261117-WA9759.jpg)
+
 This design is bold and mysterious. The base is a deep purple black cat eye. In the light, you can see a soft purple glow. In low light, it looks almost black.
 
 It is perfect for women who love dark, moody, and chic nails.
@@ -149,6 +151,8 @@ It is perfect for women who love dark, moody, and chic nails.
 **Pro Tip:** Pair this design with silver rings and dark lipstick for a complete bold look.
 
 ## 6. Brown Cat Eye Oval Nails
+
+![](/images/posts/10-cat-eye-nail-designs-for-your-next-manicure/IMG-20261117-WA3356.jpg)
 
 This design is simple, soft, and very wearable. The nails are short oval shape with a rich brown cat eye finish. The magnetic line is diagonal, which gives a silky effect.
 
