@@ -107,6 +107,8 @@ Deep plum glitter is pure glamour. The glitter is fine, not chunky, so it sparkl
 
 ## 14. Smoky Plum Glass Nails
 
+![](/images/posts/15-elegant-plum-nail-ideas-for-2026/IMG-20261117-WA1048.jpg)
+
 Glass nails use a sheer, jelly plum polish that looks like stained glass. You can see a soft transparency through the nail. With tiny rhinestones, a glass flower, and silver swirls, it looks expensive and unique. The color blends from light smoky pink to deep plum. This is a top trending design for 2026. It is perfect for weddings, parties, and luxury events. Pair it with glass jewelry and a satin dress. This design is for women who love modern, artistic, and high-end nail art.
 
 ## 15. Plum Pearl Bow Nails
