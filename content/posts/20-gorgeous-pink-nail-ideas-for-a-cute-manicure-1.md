@@ -199,6 +199,8 @@ Best for: Picnics, casual outings, spring, and playful summer outfits.
 
 ## 18. Pink Velvet Nails
 
+![](/images/posts/20-gorgeous-pink-nail-ideas-for-a-cute-manicure-1/IMG-20261116-WA6162.jpg)
+
 Pink velvet nails have a soft, luminous shimmer that changes appearance when the light moves across the surface. Magnetic gel polish is often used to create this dimensional effect.
 
 Choose dusty rose for a subtle velvet look or brighter pink for a more noticeable finish.
@@ -206,6 +208,8 @@ Choose dusty rose for a subtle velvet look or brighter pink for a more noticeabl
 Best for: Winter, evening events, romantic dates, and special celebrations.
 
 ## 19. Pink Abstract Line Art Nails
+
+![](/images/posts/20-gorgeous-pink-nail-ideas-for-a-cute-manicure-1/1689dc19b2ee478d755355a2d1d92d8908b80bcf2d1754c42ebc89042559d867.0.jpg)
 
 Pink abstract nails are perfect for anyone who enjoys modern and artistic manicures. A sheer pink base can be decorated with thin curved lines, tiny geometric shapes, or contrasting white and rose-colored details.
 
