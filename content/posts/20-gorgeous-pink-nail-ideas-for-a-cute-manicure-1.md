@@ -89,6 +89,8 @@ Best for: Parties, holidays, special occasions, and glamorous everyday manicures
 
 ## 7. Pink Ombre Nails
 
+![](/images/posts/20-gorgeous-pink-nail-ideas-for-a-cute-manicure-1/bdd90d1d8efa7fcadb0717a06df52b5a64d43babe0a01fa6f48313f5f0a2f16c.0.jpg)
+
 Pink ombre nails blend two or more shades together to create a soft gradient. A popular combination is pale pink fading into white, but you can also blend baby pink with a deeper rose shade.
 
 This design looks especially beautiful on almond and oval nails because the gradual color transition creates an elongated appearance.
@@ -97,6 +99,8 @@ Best for: Weddings, romantic dates, graduations, and everyday elegance.
 
 ## 8. Pink Cat Eye Nails
 
+![](/images/posts/20-gorgeous-pink-nail-ideas-for-a-cute-manicure-1/eefd9560c4d8310b043bca67f68863a4e08e4344950c4cadb43b0233ab6e6ca2.0.jpg)
+
 Pink cat eye nails feature a magnetic shimmer that creates a moving light effect across the surface. Depending on the lighting and angle, the finish can look like soft velvet or a glowing metallic stripe.
 
 You can choose light rose, dusty pink, or deeper magenta shades. A darker pink base generally creates a more dramatic appearance.
@@ -104,6 +108,8 @@ You can choose light rose, dusty pink, or deeper magenta shades. A darker pink b
 Best for: Evening parties, winter manicures, celebrations, and glamorous looks.
 
 ## 9. Pink Aura Nails
+
+![](/images/posts/20-gorgeous-pink-nail-ideas-for-a-cute-manicure-1/98857958adec0b799e52353d3e7283d482f748b31f7424f3fa0a300998c491cd.0.jpg)
 
 Pink aura nails have a soft, diffused glow that usually appears in the center of the nail. A blush-pink base with a brighter pink or white center creates a dreamy gradient effect.
 
