@@ -170,6 +170,8 @@ It is the perfect everyday brown cat eye manicure.
 
 ## 7. Chocolate Cat Eye Nails
 
+![](/images/posts/10-cat-eye-nail-designs-for-your-next-manicure/IMG-20261117-WA7975.jpg)
+
 This design is rich, warm, and cozy. The color is deep chocolate brown with a strong cat eye glow. The nails are long almond shape with a high gloss finish.
 
 It looks like melted chocolate, warm coffee, and luxury all in one.
