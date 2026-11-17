@@ -116,6 +116,8 @@ It does not have heavy art, but it still looks very expensive.
 
 ## 4. Caramel Jelly Nails
 
+![](/images/posts/10-cat-eye-nail-designs-for-your-next-manicure/IMG-20261117-WA4963.jpg)
+
 Caramel jelly nails are the softest design in this list. The color is sheer caramel brown, almost like glass. You can slightly see your natural nail underneath. The finish is shiny and juicy, like caramel candy.
 
 This design is perfect if you love clean girl nails.
