@@ -95,7 +95,7 @@ This is a modern French manicure. Instead of white tips, it uses shimmering plum
 
 ## 12. Plum Blossom Floral Nails
 
-
+![](/images/posts/15-elegant-plum-nail-ideas-for-2026/IMG-20261117-WA3320.jpg)
 
 This design features plum blossom branches with small pink flowers and gold dots. It is detailed, artistic, and very feminine. The base blends nude pink into deep plum, and the flowers are painted on top with fine lines. It works best on long almond nails where the artist has space to paint the flowers. It is a true statement design for weddings and special events. Pair it with a plum sweater and gold ring. If you love detailed nail art, this is the most beautiful plum floral design in this list.
 
