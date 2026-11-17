@@ -206,6 +206,8 @@ It is chic, artistic, and very popular in the USA.
 
 ## 9. Olive Jelly Martini Nails
 
+![](/images/posts/10-cat-eye-nail-designs-for-your-next-manicure/IMG-20261117-WA7962.jpg)
+
 This design is the most artistic in this list. The base is sheer olive green jelly with gold French tips. One nail has a small green olive detail. Other nails have tiny star and crystal details.
 
 It looks like a luxury cocktail party on your nails.
@@ -221,6 +223,8 @@ It looks like a luxury cocktail party on your nails.
 **Pro Tip:** This design needs a skilled nail artist. Show the photo to your nail tech and ask for thin gold tips.
 
 ## 10. Chocolate Cat Eye With Gold Stars
+
+![](/images/posts/10-cat-eye-nail-designs-for-your-next-manicure/IMG-20261117-WA2955.jpg)
 
 This is the perfect cozy glam design. The base is chocolate brown cat eye with a warm golden glow. Three nails have small gold star details with a tiny crystal in the center.
 
