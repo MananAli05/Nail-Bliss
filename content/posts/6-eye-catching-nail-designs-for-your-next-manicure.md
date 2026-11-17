@@ -105,6 +105,8 @@ It is unique and artistic, not common. Mix of glossy and glitter keeps it intere
 
 ## 4. Plum French Heart Nails - Cute, Romantic And Sweet
 
+![](/images/posts/6-eye-catching-nail-designs-for-your-next-manicure/IMG-20261117-WA5588.jpg)
+
 French nails never go out of fashion, but this plum version is a fresh twist. Instead of white tips, the tips are deep plum. The base is soft pink, and two nails have small plum hearts.
 
 One nail is full plum glitter, which balances the softness of the French tips.
@@ -123,6 +125,8 @@ It is cute and romantic without being childish. French tips make nails look neat
 
 ## 5. Plum Bow Nails - Trendy, Chic And Feminine
 
+![](/images/posts/6-eye-catching-nail-designs-for-your-next-manicure/IMG-20261117-WA9626.jpg)
+
 Bow nails are the biggest trend of this year. This design is deep plum glossy with one special accent nail. The accent nail is sheer pink with a large plum bow, tiny dots, and a diamond in the centre.
 
 The bow looks like a real ribbon tied on the nail. It is feminine, trendy, and very Instagram-worthy.
@@ -140,6 +144,8 @@ It is very trendy and modern. Bow makes the design look like jewellery. Deep plu
 **Pro Tip:** Keep the bow on one nail only. If you put bows on all nails, it will look too heavy.
 
 ## 6. Plum Tiny Flower Glitter Nails - Sweet And Sparkling
+
+![](/images/posts/6-eye-catching-nail-designs-for-your-next-manicure/IMG-20261117-WA3578.jpg)
 
 This design is soft, sweet, and full of sparkle. Three nails are sheer pink with tiny plum flowers and small rhinestones. Two nails are full plum glitter.
 
