@@ -119,6 +119,8 @@ Best for: Everyday wear, vacations, birthdays, and soft aesthetic looks.
 
 ## 10. Hot Pink Glossy Nails
 
+![](/images/posts/20-gorgeous-pink-nail-ideas-for-a-cute-manicure-1/6c93734627cca2364b70183796737d36323a5270e13f8f4768892ebd99c33707.0.jpg)
+
 Hot pink glossy nails are bold, cheerful, and full of personality. A vibrant pink shade with a smooth top coat creates a striking manicure that looks beautiful in summer photographs.
 
 You can wear the color on every nail or combine it with a single nude accent nail for a softer contrast.
@@ -127,7 +129,7 @@ Best for: Summer holidays, parties, vacations, and colorful outfits.
 
 ## 11. Baby Pink Minimalist Nails
 
-![](/images/posts/20-gorgeous-pink-nail-ideas-for-a-cute-manicure-1/b625bcc75e2fcbafb69af7a2da1ece45.jpg)
+![](/images/posts/20-gorgeous-pink-nail-ideas-for-a-cute-manicure-1/IMG-20261116-WA9883.jpg)
 
 Baby pink nails are a lovely choice for people who prefer simple and understated manicures. The pale shade looks soft and delicate, especially with a glossy finish.
 
@@ -166,6 +168,8 @@ For a balanced look, place the butterfly artwork on one or two accent nails whil
 Best for: Spring celebrations, birthdays, vacations, and romantic occasions.
 
 ## 15. Pink Marble Nails
+
+![](/images/posts/20-gorgeous-pink-nail-ideas-for-a-cute-manicure-1/6e84e44d318a4e9edb72d3250c600b8655b6fa39d47cd0a8eddb8635319b9054.0.jpg)
 
 Pink marble nails recreate the natural appearance of marble stone using soft pink, white, and occasionally fine gold details.
 
