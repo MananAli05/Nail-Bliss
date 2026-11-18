@@ -116,6 +116,8 @@ However, you do not have to avoid square nails or bright colours. Choose the sha
 
 ## Step 3: Choose a Shape Based on Your Nail Length
 
+![](/images/posts/how-to-choose-the-perfect-nail-shape-for-your-hands/IMG-20261118-WA2993.jpg)
+
 Your natural nail length is one of the most important factors when choosing a shape.
 
 ### Very Short Nails
