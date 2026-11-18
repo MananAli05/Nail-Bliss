@@ -1,6 +1,6 @@
 ---
 title: Which Nail Shape Makes Fingers Look Longer? 7 Flattering Styles
-category: nail-designs
+category: nail-shapes
 description: >-
   Discover nail shapes that create a longer-looking finger appearance, including
   almond, oval, stiletto, coffin and more, plus colour and manicure tips.
