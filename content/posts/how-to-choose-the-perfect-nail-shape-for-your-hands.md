@@ -80,6 +80,8 @@ If your nails have a straighter side profile, square or squoval shapes may feel 
 
 ## Step 2: Choose a Shape Based on Your Finger Length
 
+![](/images/posts/how-to-choose-the-perfect-nail-shape-for-your-hands/IMG-20261118-WA9817.jpg)
+
 Finger length can help guide your choice, but there are no strict rules. You can wear any nail shape you enjoy.
 
 ### For Short Fingers
