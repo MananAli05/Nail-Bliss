@@ -162,6 +162,8 @@ It is soft but still festive. The white bow makes it look like a gift.
 
 ## 6. Purple Angel Christmas Nails
 
+![](/images/posts/gingerbread-house-nails-13-classy-and-cute-christmas-nail-designs-for-2026/IMG-20261118-WA3764.jpg)
+
 This design is dreamy, angelic, and very beautiful. The base is sheer pink with lavender purple glitter. One nail has a silver Christmas tree with pearls and a star. Other nails have silver snowflakes, silver stars, and tiny pearls.
 
 In the background, there is a beautiful angel. The whole design feels like heaven.
@@ -177,6 +179,8 @@ In the background, there is a beautiful angel. The whole design feels like heave
 **Pro Tip**: Ask for lavender glitter, not dark purple. Lavender looks softer and more angelic.
 
 ## 7. Santa And Snowflake Christmas Nails
+
+![](/images/posts/gingerbread-house-nails-13-classy-and-cute-christmas-nail-designs-for-2026/IMG-20261118-WA7102.jpg)
 
 This design is cute, festive, and full of Christmas spirit. The base is sheer pink with silver glitter. One nail has a cute 3D Santa face with a red hat. One nail has a Santa hat. One nail has a white bow with crystals. Other nails have snowflakes, pearls, and crystals.
 
