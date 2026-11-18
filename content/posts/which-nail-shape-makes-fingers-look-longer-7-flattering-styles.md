@@ -314,6 +314,8 @@ Pearl or rose chrome creates a reflective finish. A simple chrome manicure can h
 
 ## Nail Art Ideas for a Longer-Looking Manicure
 
+![](/images/posts/which-nail-shape-makes-fingers-look-longer-7-flattering-styles/IMG-20261118-WA3950.jpg)
+
 If you want nail art that complements the length of your nails, consider designs that follow the natural direction of the nail.
 
 ### Vertical Lines
