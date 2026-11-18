@@ -108,6 +108,8 @@ Oval nails are ideal if you love a clean, understated manicure and want somethin
 
 ## 3. Squoval Nails: The Best of Both Shapes
 
+![](/images/posts/nail-shapes-for-small-hands-5-flattering-styles-to-try/IMG-20261118-WA3547.jpg)
+
 Squoval nails combine square tips with softened corners. They are a balanced option for people who like square nails but want a softer finish.
 
 The shape works well on short and medium nails and is often easy to maintain at home.
