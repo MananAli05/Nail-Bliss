@@ -126,6 +126,8 @@ It looks like a golden Christmas in a palace. It is elegant, warm, and rich.
 
 ## 4. Blue Snowflake Christmas Nails
 
+![](/images/posts/gingerbread-house-nails-13-classy-and-cute-christmas-nail-designs-for-2026/IMG-20261118-WA5774.jpg)
+
 This design is icy, cool, and magical. The base is sheer pink with icy blue glitter tips. The nails have big white snowflakes, tiny pearls, crystals, and one light blue 3D bow with a pearl drop.
 
 It looks like a frozen winter wonderland. It is perfect for girls who love winter, snow, and icy colours.
@@ -141,6 +143,8 @@ It looks like a frozen winter wonderland. It is perfect for girls who love winte
 **Pro Tip**: Ask for light blue glitter, not dark blue. Light blue looks softer and more expensive.
 
 ## 5. Red Bow And Snowflake Christmas Nails
+
+![](/images/posts/gingerbread-house-nails-13-classy-and-cute-christmas-nail-designs-for-2026/IMG-20261118-WA9003.jpg)
 
 This design is festive, elegant, and very Christmas. The base is sheer pink with silver glitter. One nail has a big white bow, one has a snowflake, and other nails have white snowflakes with pearls and crystals.
 
