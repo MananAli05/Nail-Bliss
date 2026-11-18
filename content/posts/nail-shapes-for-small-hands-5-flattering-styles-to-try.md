@@ -72,6 +72,8 @@ If your natural nails are short, avoid filing them too narrowly. Keep the sides 
 
 ## 2. Oval Nails: A Classic and Natural Shape
 
+![](/images/posts/nail-shapes-for-small-hands-5-flattering-styles-to-try/IMG-20261118-WA0174.jpg)
+
 Oval nails have softly rounded tips and curved sides. They are a wonderful choice if you prefer a natural manicure that looks neat and balanced.
 
 They can work especially well on short to medium natural nails because they follow the natural curve of the fingertip.
