@@ -82,6 +82,8 @@ If your nails are very short, avoid filing the sides too aggressively to create 
 
 ## 2. Oval Nails: A Soft, Natural Lengthening Shape
 
+![](/images/posts/which-nail-shape-makes-fingers-look-longer-7-flattering-styles/IMG-20261118-WA0576.jpg)
+
 Oval nails are another excellent option if you prefer a more natural manicure. Their rounded tip follows the curve of the fingertip, creating a balanced and soft appearance.
 
 Unlike almond nails, oval nails do not taper as sharply. They can be especially lovely on short to medium nails because they create a rounded outline without requiring a pointed tip.
