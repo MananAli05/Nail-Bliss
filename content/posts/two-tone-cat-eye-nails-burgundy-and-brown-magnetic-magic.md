@@ -1,6 +1,6 @@
 ---
 title: 'Two Tone Cat Eye Nails: Burgundy & Brown Magnetic Magic'
-category: nail-beauty
+category: nail-designs
 description: >-
   Two Tone Cat Eye Nails mix burgundy & brown magnetic polish for a glowing
   two-color effect. Perfect for fall, winter & cozy looks.
