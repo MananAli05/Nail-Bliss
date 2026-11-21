@@ -36,6 +36,9 @@ export const metadata: Metadata = {
   },
   twitter: { card: "summary_large_image" },
   robots: { index: true, follow: true },
+verification: {
+  google: "xY9mLt-w0AEXxTjpl3ram8S46R0hCQsL7uPEZ5hwYwY",
+},
   other: process.env.NEXT_PUBLIC_PINTEREST_VERIFY
     ? { "p:domain_verify": process.env.NEXT_PUBLIC_PINTEREST_VERIFY }
     : undefined,
